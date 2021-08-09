@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm benzoh</h1>
 <h3>web developer from Osaka 🐙</h3>
 
-- 📫 How to reach me **hello@hippohack.me**
+- 📫  How to reach me **hello@hippohack.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
