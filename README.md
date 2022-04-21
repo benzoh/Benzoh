@@ -12,5 +12,5 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=benzoh&show_icons=true&theme=dark&locale=en" alt="benzoh" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=benzoh&show_icons=true&theme=dark&locale=en&v=2" alt="benzoh" />
 </p>
